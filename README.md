@@ -1,4 +1,4 @@
-# Triple-Networks-with-GANs
+# Triplet-Networks-with-GANs
 This repository is the implementation of the paper "Training Triplet Networks with GANs"(https://arxiv.org/pdf/1704.02227.pdf)
 The implemented architecture is an amalgation of GANs and triplet networks and can be trained using train function in pipeline.ipynb. 
 Pre training can be done by commenting out the loss_triplet in trainD function to stop taking supervised loss into account.
